@@ -19,9 +19,6 @@ Automatically install all Kali linux tools
 - chmod +x kalitools.py
 - python kalitools 
 
-# Video
-https://www.youtube.com/watch?v=8VxCWVoZEEE
-
 # Usage
 - Typing the number of a tool will install it
 - Typing 0 will install all Kali Linux tools
