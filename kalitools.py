@@ -17,7 +17,7 @@ oooo   oooo            o888  o88        ooooooooooo                      o888
  888  o88    ooooooo    888  oooo       88  888  88 ooooooo     ooooooo   888   oooooooo8  
  888888      ooooo888   888   888           888   888     888 888     888 888  888ooooooo  
  888  88o  888    888   888   888           888   888     888 888     888 888          888 
-o888o o888o 88ooo88 8o o888o o888o         o888o    88ooo88     88ooo88  o888o 88oooooo88 ;m
+o888o o888o 88ooo88 8o o888o o888o         o888o    88ooo88     88ooo88  o888o 88oooooo88
                                                                                            
 
 
@@ -26,7 +26,7 @@ o888o o888o 88ooo88 8o o888o o888o         o888o    88ooo88     88ooo88  o888o 8
  \033[1;32m+ -- -- +=[ 331 Tools \033[1;m
 
 
-\033[1;91m[W] Before updating your system , please remove all Kali-linux repositories to avoid any kind of problem .\033[1;m
+\033[1;91m Before updating your system , please remove all Kali-linux repositories to avoid any kind of problem .\033[1;m
 		''')
 		def inicio1():
 			while True:
